@@ -22,3 +22,5 @@ Branch5 first commit
 Branch5 second commit
 
 Branch6 first commit
+
+Branch6 second commit
